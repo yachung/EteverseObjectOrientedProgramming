@@ -2,10 +2,16 @@
 
 // 소방서장 클래스
 // 소방관이면서 다른                                                                      
-public class FireChief : Firefighter
+public class FireChief : FirefighterBase
 {
+    public FireChief(string name, Firefighter numberOne)
+    {
+        this.Name = name;
+        this.NumberOne = numberOne;
+    }
+
     // 1순위 소방관
-    public Firefighter NumberOne { get; set; }
+    public Firefighter? NumberOne { get; set; }
 
     // 불끄기 함수
     public override void ExtinguishFire()

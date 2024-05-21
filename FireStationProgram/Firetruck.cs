@@ -6,7 +6,7 @@
 public class Firetruck
 {
     // 필드
-    public Firefighter? Driver { get; set; }
+    public FirefighterBase? Driver { get; set; }
 
     private readonly Ladder ladder;
 
