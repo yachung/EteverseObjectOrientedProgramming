@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice2", "Practice2\Practice2.csproj", "{E0A21FDB-25DE-418D-A316-CB6F329F6300}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice3", "Practice3\Practice3.csproj", "{789F701E-E5D6-4C95-BA8C-AFA596D86801}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice3", "Practice3\Practice3.csproj", "{789F701E-E5D6-4C95-BA8C-AFA596D86801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{742AE728-D8BD-422E-996A-609CE72ABFCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{742AE728-D8BD-422E-996A-609CE72ABFCE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameEngineFramework", "GameEngineFramework\GameEngineFramework.csproj", "{3AF5B30B-9298-4B79-9071-AF9CD059C848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireStationProgram", "FireStationProgram\FireStationProgram.csproj", "{CE2ADDF8-0E9D-4D91-ABE6-53C68842784F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3AF5B30B-9298-4B79-9071-AF9CD059C848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AF5B30B-9298-4B79-9071-AF9CD059C848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AF5B30B-9298-4B79-9071-AF9CD059C848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2ADDF8-0E9D-4D91-ABE6-53C68842784F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2ADDF8-0E9D-4D91-ABE6-53C68842784F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2ADDF8-0E9D-4D91-ABE6-53C68842784F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2ADDF8-0E9D-4D91-ABE6-53C68842784F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
